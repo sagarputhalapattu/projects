@@ -33,7 +33,7 @@ In addition to major projects, this repository also contains several micro-proje
 ### 1. Visa Dataset Analysis
    - Description: This micro-project focuses on analyzing visa application data to gain insights into application trends, approval rates, and other key metrics.
    - Tech Stack: Python, Pandas, Matplotlib, Seaborn
-   - [Repository Link](https://github.com/sagarputhalapattu/visa-dataset-analysis)
+   - [Repository Link](https://github.com/sagarputhalapattu/projects/tree/main/Visa%20Dataset)
 
 ### 2. T20 2024 Data Analysis
    - Description: Analyzing T20 2024 cricket data, focusing on player performance, match statistics, and predictive insights for upcoming games.
