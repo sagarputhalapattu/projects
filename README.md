@@ -43,4 +43,4 @@ In addition to major projects, this repository also contains several micro-proje
 ### 3. E-commerce Business Transaction Analysis
    - Description: A data analysis project focused on e-commerce transaction data, examining sales trends, customer behavior, and product performance.
    - Tech Stack: Python, Pandas, Matplotlib, Scikit-Learn
-   - [Repository Link](https://github.com/sagarputhalapattu/ecommerce-transaction-analysis)
+   - [Repository Link](https://github.com/sagarputhalapattu/projects/tree/main/MarketAnalysis)
