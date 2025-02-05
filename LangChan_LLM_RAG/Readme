@@ -1,4 +1,4 @@
-## 1. Project Overview ##
+  ## 1. Project Overview ##
 •	Objective: To create a Q&A system for finance documents using Azure services, embeddings, and a RAG model, with a Flask API to serve the results.
 •	Data: Finance documents stored in Azure Blob Storage.
 
